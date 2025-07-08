@@ -246,16 +246,18 @@ margin-top: 20px;
 
 
 .container-m{
+  max-width: 1000px;
   margin: auto;
   background: #fff;
   padding: 40px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  border-radius: 12px;
 }
 
 h2 {
   text-align: center;
   margin-bottom: 40px;
   font-size: 28px;
-  margin-bottom: 50px;
 }
 
 .grid {
@@ -270,24 +272,24 @@ h2 {
   font-size: 20px;
 }
 
-.item-m {
+.ititem-m {
   margin-bottom: 25px;
 }
 
-.item-m h4 {
+.item h4 {
   margin: 0 0 5px;
   font-size: 18px;
   color: #222;
 }
 
-.item-m span {
+.item span {
   display: block;
   color: #777;
   font-size: 14px;
   margin-bottom: 8px;
 }
 
-.item-m p {
+.item p {
   margin: 0;
   font-size: 14px;
   color: #555;
