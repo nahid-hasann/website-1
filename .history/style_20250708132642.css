@@ -218,29 +218,9 @@ margin-top: 20px;
     padding: 50px 100px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 
 .footer-column{
     max-width: 40%;
-}
-
-.form input{
-      display: block;
-      padding: 12px 20px;
-      width: 441px;
-      font-size: 16px;
-      border: none;
-      border-radius: 5px;
-}
-
-.form textarea{
-     width: 441px;
-     font-size: 16px;
-     border: none;
-      border-radius: 5px;
-      display: block;
-      padding: 15px 20px;
-      height: 180px;
 }
 

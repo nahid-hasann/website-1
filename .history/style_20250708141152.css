@@ -218,7 +218,6 @@ margin-top: 20px;
     padding: 50px 100px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 
 .footer-column{
@@ -232,15 +231,5 @@ margin-top: 20px;
       font-size: 16px;
       border: none;
       border-radius: 5px;
-}
-
-.form textarea{
-     width: 441px;
-     font-size: 16px;
-     border: none;
-      border-radius: 5px;
-      display: block;
-      padding: 15px 20px;
-      height: 180px;
 }
 

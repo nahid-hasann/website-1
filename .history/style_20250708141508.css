@@ -232,6 +232,7 @@ margin-top: 20px;
       font-size: 16px;
       border: none;
       border-radius: 5px;
+      background-color: ;
 }
 
 .form textarea{
@@ -239,8 +240,5 @@ margin-top: 20px;
      font-size: 16px;
      border: none;
       border-radius: 5px;
-      display: block;
-      padding: 15px 20px;
-      height: 180px;
 }
 
