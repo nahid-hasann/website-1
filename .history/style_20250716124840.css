@@ -314,6 +314,9 @@ h2 {
   color: #555;
 }
 
+.hide{
+    display: none;
+}
 
 @media screen and (max-width: 575px) {
     .section-title{

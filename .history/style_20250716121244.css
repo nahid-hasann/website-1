@@ -61,10 +61,6 @@
     font-size: 20px;
 }
 
-.hire-me2{
-    margin-right: 20px;
-}
-
 .btn-2{
     padding: 10px;
     border-radius: 5px;
@@ -80,14 +76,6 @@
 
 .banner-container{
     width: 585px;
-}
-
-.hi-i-am{
-    font-size: 45px; font-weight: 400;
-}
-
-.mary-hardy{
-    font-size: 85px;
 }
 
 .banner-description{
@@ -314,6 +302,9 @@ h2 {
   color: #555;
 }
 
+.hide{
+    display: none;
+}
 
 @media screen and (max-width: 575px) {
     .section-title{
@@ -377,13 +368,6 @@ max-width: 100%;
     .hire-me{
         font-size: 10px;
         padding: 10px 20px;
-        margin-right: 0px;
-    }
-
-    .btn-2{
-        font-size: 10px;
-        padding: 10px 20px;
-        margin-top: 14px;
     }
 
     .section{
@@ -405,23 +389,11 @@ max-width: 100%;
 
 .banner{
     margin: 0;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.banner-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    max-width: 100%;
 }
 
 .banner-img{
-    max-width: 300px;
-    max-height: 300px;
-    
+    max-width: 200px;
+    height: 200px;
 }
 
 .main-header{
@@ -434,26 +406,7 @@ max-width: 100%;
 }
 
 .menu ul li a{
-    font-size: 12px;
-}
-
-.header{
-    gap: 20px;
-}
-
-.hi-i-am{
-    font-size: 16px;
-}
-
-.mary-hardy{
-    font-size: 18px;
-    
-}
-
-.banner-description{
-    font-size: 10px;
-    width: 150px;
-    text-align: center;
+    font-size: 12;
 }
  
 }
