@@ -336,55 +336,7 @@ h2 {
     }
 
     .section-m h3{
-        text-align: center;
-    }
-
-    .item-m{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .main-footer{
-        flex-direction: column;
-        padding: 20px 10px;
-        margin-top: 70px;
-    }
-
-    .footer-column{
-        max-width: 100%;
-        text-align: center;
-    }
-
-    .form input{
-max-width: 100%;
-    }
-
-    .form textarea{
-        max-width: 100%;
-    }
-
-    .hire-me{
-        font-size: 10px;
-        padding: 10px 20px;
-    }
-
-    .section{
-        padding: 50px 10px;
-        margin: 70px 0;
-    }
-
-    .about-items{
-        flex-direction: column;
-    }
-
-    .item-title{
-        margin-top: 20px;
-    }
-
-    .ektubeshi{
-        margin-top: 50px;
+        h3
     }
 }
 

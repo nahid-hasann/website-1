@@ -370,22 +370,7 @@ max-width: 100%;
         padding: 10px 20px;
     }
 
-    .section{
-        padding: 50px 10px;
-        margin: 70px 0;
-    }
-
-    .about-items{
-        flex-direction: column;
-    }
-
-    .item-title{
-        margin-top: 20px;
-    }
-
-    .ektubeshi{
-        margin-top: 50px;
-    }
+    
 }
 
 

@@ -151,15 +151,6 @@ border-radius: 5px;
 margin-top: 20px;
 }
 
-.section-des{
-    font-size: 18px; 
-    color: grey; 
-    margin-top: 30px;
-     width: 909px; 
-     margin: 0px auto;
-      margin-top: 30px;
-}
-
 .skills-heading{
     margin: 15px 0px;
     font-size: 20px ;
@@ -306,89 +297,6 @@ h2 {
     display: none;
 }
 
-@media screen and (max-width: 575px) {
-    .section-title{
-        font-size: 30px;
-    }
-
-    .section-des{
-        font-size: 14px;
-        max-width: 400px;
-        min-width: 100px;
-        padding: 0 10px;
-    }
-
-    .skills-container{
-        flex-direction: column;
-    }
-
-    .skkis-veriation{
-        margin: 0 20px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    }
-
-    .grid{
-        grid-template-columns: 1fr;
-    }
-
-    .section-m h3{
-        text-align: center;
-    }
-
-    .item-m{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .main-footer{
-        flex-direction: column;
-        padding: 20px 10px;
-        margin-top: 70px;
-    }
-
-    .footer-column{
-        max-width: 100%;
-        text-align: center;
-    }
-
-    .form input{
-max-width: 100%;
-    }
-
-    .form textarea{
-        max-width: 100%;
-    }
-
-    .hire-me{
-        font-size: 10px;
-        padding: 10px 20px;
-    }
-
-    .section{
-        padding: 50px 10px;
-        margin: 70px 0;
-    }
-
-    .about-items{
-        flex-direction: column;
-    }
-
-    .item-title{
-        margin-top: 20px;
-    }
-
-    .ektubeshi{
-        margin-top: 50px;
-    }
-}
-
-
-
+@
 
 
